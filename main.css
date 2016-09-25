@@ -1,12 +1,18 @@
-.header {
-  background-color: #12FFD4;
-  color: white;
-}
+
 
 body {
-  background-color: #ff9100;
+  background-color: #393939;
 }
 
 /** {
   border: solid 1px red;
 }*/
+.header {
+  background-color: #222222;
+  color: white;
+  height: 400px;
+}
+
+.header-logo {
+  height: 320px;
+}
