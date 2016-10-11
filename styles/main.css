@@ -1,0 +1,43 @@
+/***********************/
+/*** 1. BASE STYLES ****/
+/***********************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/***********************/
+/*** 2. NAV BAR ********/
+/***********************/
+.nav {
+  background-color: white;
+  height: 80px;
+  width: 100%;
+  display: inline-block;
+}
+
+.nav-logo {
+  height: 100px;
+}
+
+.logo-container {
+  display: inline-block;
+}
