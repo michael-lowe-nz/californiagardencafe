@@ -23,4 +23,22 @@ body {
 .nav {
   /*text-align: center;*/
   font-size: 1.5em;
+  margin-top: 10px;
+  color: #ff9100;
+}
+
+.nav li {
+  margin: 5px 0;
+}
+
+.hero {
+  height: 700px;
+  background-color: #2b2a28;
+  color: white;
+  text-align: right;
+}
+
+.jumbo-img {
+  height: 200px;
+  margin: 0 auto;
 }
